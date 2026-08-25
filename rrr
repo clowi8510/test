@@ -2,3 +2,5 @@ okokkoko
 
 lololol
 data <-  readxl::read_excel("./data/csvfilename.xlsx", sheet = 1)
+#learn to use git ignore
+print(lel)
